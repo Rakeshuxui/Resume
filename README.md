@@ -22,11 +22,8 @@
   </ul>
   <p class="head">Education</p>
   <ul>
-      <li>Vetri Vikaas Hr sec school</li>
-    <!--Link-->
-    
-      <li>Kongu Polytechnic College</li>
-   
+      <li>Vetri Vikaas Hr sec school</li>   
+    <li>Kongu Polytechnic College</li>
     <li>Codeacademy</li>
   </ul>
   <p class="head">Experience</p>
