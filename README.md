@@ -2,7 +2,6 @@
   <div class="base">
     <div class="profile">
       <div class="photo">
-        <!--<img src="" /> -->
         <i class="fas fa-rocket"></i>
       </div>
       <div class="info">
@@ -15,11 +14,11 @@
     </div>
     <div class="contact">
       <h3>Contact Me</h3>
-      <div class="call"><a href="tel:123-456-7890"><i class="fas fa-phone"></i><span>123-456-7890</span></a></div>
+      <div class="call"><a href="tel:908049847"><i class="fas fa-phone"></i><span>123-456-7890</span></a></div>
       <div class="address"><a href="https://goo.gl/maps/fiTBGT6Vnhy"><i class="fas fa-map-marker"></i><span>Provo, Utah</span></a>
       </div>
-      <div class="email"><a href="mailto:astronaomical@gmail.com"><i class="fas fa-envelope"></i><span>astronaomical</span></a></div>
-      <div class="website"><a href="http://astronaomical.com/" target="_blank"> <i class="fas fa-home"></i><span>astronaomical.com</span></a></div>
+      <div class="email"><a href="mailto:rakesh.uxde34@gmail.com"><i class="fas fa-envelope"></i><span>astronaomical</span></a></div>
+      <div class="website"><a href="http://webdesigners.com/" target="_blank"> <i class="fas fa-home"></i><span>astronaomical.com</span></a></div>
  
   <div class="func">
     <div class="work">
